@@ -1,5 +1,5 @@
 # This script contains the code used to analyse the data for the manuscript 
-# " INSERT TITLE " 
+# " Primary HPV-based cervical screening with self-sampling versus clinician-sampling: eight years of follow-up of a randomised trial " 
 
 data <- SR1_eventCIN2p_UE_excl
 data <- data %>%
